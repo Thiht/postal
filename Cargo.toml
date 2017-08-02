@@ -1,0 +1,7 @@
+[package]
+name = "postal"
+version = "0.1.0"
+authors = ["Thibaut Rousseau <thibaut.rousseau@protonmail.com>"]
+
+[dependencies]
+libc = "0.2"
